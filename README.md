@@ -1,10 +1,5 @@
 # 🎨 Omar Faisal - Design Portfolio
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x400?text=UI/UX+Design+Portfolio" alt="Design Portfolio Banner" />
-  <p><em>Crafting digital experiences that delight and inspire</em></p>
-</div>
-
 ## ✨ About This Project
 
 This portfolio website showcases the creative work and professional journey of Omar Faisal, a UI/UX Designer and Front-end Developer. Built with a focus on accessibility, aesthetics, and user experience, the site serves as both a demonstration of design skills and a practical example of modern web development techniques.
