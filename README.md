@@ -50,7 +50,7 @@ This portfolio implements a comprehensive responsive strategy:
 
 1. **Download the files**
    ```
-   git clone https://github.com/username/omar-portfolio.git
+   git clone https://github.com/omarfasial/Portfolio-Website.git
    ```
 
 2. **Open the project**
